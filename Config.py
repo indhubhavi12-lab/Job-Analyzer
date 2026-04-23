@@ -20,7 +20,7 @@ MY_SKILLS = [
 
 NAME = "Indhu S"
 EMAIL = "indhubhavi12@gmail.com"
-PHONE = "8778617109"
+
 
 # Email reports (main.py --email). Prefer environment: SMTP_PASSWORD, SMTP_USER, EMAIL_TO
 SMTP_HOST = "smtp.gmail.com"
